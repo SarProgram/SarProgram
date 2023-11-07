@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Liam-Wei">
+<a href="https://github.com/symsssssss/">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=William+Wei;Researcher+%7C+Master's+Student+%7C+Big Data+Engineer;Graph Neural Network+%7C+Causal Inference+%7C+Recommendation System" alt="Typing SVG" />
 </a>
 <br/>
@@ -17,7 +17,7 @@ Ali Cloud community expert blogger, figure neural network - causal inference - r
 	<a href="mailto:ahang010@163.com">
     	<img src="https://img.shields.io/badge/Email-163-yellow?style=flat&logo=gmail&logoColor=white">
     </a>
-	<a href="https://github.com/Liam-Wei">
+	<a href="https://github.com/symsssssss/">
     	<img src="https://img.shields.io/badge/Website-GitHub-red?style=flat&logo=github&logoColor=white">		</a>
 </p>
 
@@ -44,7 +44,7 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 
 <br/>
 
-<p align="center"><a href="https://github.com/Liam-Wei">
+<p align="center"><a href="https://github.com/symsssssss/">
     <img src="https://github-stats-alpha.vercel.app/api?username=Liam-Wei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a><p/>
 
@@ -66,15 +66,15 @@ Welcome! You are my <img src="https://profile-counter.glitch.me/Liam-Wei/count.s
 
 | Title                                                        | Stars                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [PyTorch-PyG implements the classical model of graph neural network](https://github.com/Liam-Wei/PyTorch-PyG-implements-the-classical-model-of-graph-neural-network) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-PyG-implements-the-classical-model-of-graph-neural-network?style=flat&labelColor=black"/> |
-| [Data structures and algorithms](https://github.com/Liam-Wei/Data-structures-and-algorithms) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Data-structures-and-algorithms?style=flat&labelColor=black"/> |
-| [NLP classic text classification project actual combat](https://github.com/Liam-Wei/NLP-classic-text-classification-project-actual-combat) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/NLP-classic-text-classification-project-actual-combat?style=flat&labelColor=black"/> |
-| [Matplotlib draws images](https://github.com/Liam-Wei/Matplotlib-draws-images) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Matplotlib-draws-images?style=flat&labelColor=black"/> |
-| [Pandas handled 100 cases of data](https://github.com/Liam-Wei/Pandas-handled-100-cases-of-data) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Pandas-handled-100-cases-of-data?style=flat&labelColor=black"/> |
-| [Machine learning project field case](https://github.com/Liam-Wei/Machine-learning-project-field-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Machine-learning-project-field-case?style=flat&labelColor=black"/> |
-| [PyTorch Deep Learning Project Real Combat 100 examples directory](https://github.com/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory?style=flat&labelColor=black"/> |
-| [Deep learning time series prediction case](https://github.com/Liam-Wei/Deep-learning-time-series-prediction-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Deep-learning-time-series-prediction-case?style=flat&labelColor=black"/> |
-| [ResNet Pytorch](https://github.com/Liam-Wei/ResNet-Pytorch) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/ResNet-Pytorch?style=flat&labelColor=black"/> |
+| [PyTorch-PyG implements the classical model of graph neural network](https://github.com/symsssssss//PyTorch-PyG-implements-the-classical-model-of-graph-neural-network) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-PyG-implements-the-classical-model-of-graph-neural-network?style=flat&labelColor=black"/> |
+| [Data structures and algorithms](https://github.com/symsssssss//Data-structures-and-algorithms) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Data-structures-and-algorithms?style=flat&labelColor=black"/> |
+| [NLP classic text classification project actual combat](https://github.com/symsssssss//NLP-classic-text-classification-project-actual-combat) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/NLP-classic-text-classification-project-actual-combat?style=flat&labelColor=black"/> |
+| [Matplotlib draws images](https://github.com/symsssssss//Matplotlib-draws-images) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Matplotlib-draws-images?style=flat&labelColor=black"/> |
+| [Pandas handled 100 cases of data](https://github.com/symsssssss//Pandas-handled-100-cases-of-data) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Pandas-handled-100-cases-of-data?style=flat&labelColor=black"/> |
+| [Machine learning project field case](https://github.com/symsssssss//Machine-learning-project-field-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Machine-learning-project-field-case?style=flat&labelColor=black"/> |
+| [PyTorch Deep Learning Project Real Combat 100 examples directory](https://github.com/symsssssss//PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/PyTorch-Deep-Learning-Project-Real-Combat-100-examples-directory?style=flat&labelColor=black"/> |
+| [Deep learning time series prediction case](https://github.com/symsssssss//Deep-learning-time-series-prediction-case) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/Deep-learning-time-series-prediction-case?style=flat&labelColor=black"/> |
+| [ResNet Pytorch](https://github.com/symsssssss//ResNet-Pytorch) | <img alt="Stars" src="https://img.shields.io/github/stars/Liam-Wei/ResNet-Pytorch?style=flat&labelColor=black"/> |
 
 </td></tr></table>
 
